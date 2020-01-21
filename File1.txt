@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Welcom to Git!!!
 Hello Git User
 Change for feature -login
 Change for feature -logout
+=======
+Welcom to Git!!!
+>>>>>>> parent of 95e4711... File1 updated for Hello Git User
