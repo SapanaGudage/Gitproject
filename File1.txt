@@ -1,8 +1,9 @@
 Welcom to Git!!!
 Hello Git User
 
-Change for feature - login
-Change for feature -logout
-change to fix bug2
-change to fix bug1
-Change To from remote srver by my teammate
+Change1 for feature - login
+Change2 for feature -logout
+change3 to fix bug2
+change4 to fix bug1
+Change5  from remote srver by my teammate
+Change6 from remote server by my teamamte 
