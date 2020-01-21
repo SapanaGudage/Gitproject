@@ -1,6 +1,7 @@
 Welcom to Git!!!
 Hello Git User
-Change for feature -login
+Change for feature - login
+change to fix bug2
 Change for feature -logout
 
 change to fix bug1
